@@ -10,3 +10,9 @@ Edwardsville was split into two different middle schools, Liberty and Lincoln.  
 I went to *Edwardsville Highschool* and everyone went to the same highschool so that was a big hassle competing for sports.  I tried out for baseball which was in spring and that was the same time as track so I could only choose one.  I ended up making the team and starting almost every game.  I was a decent student throughout highschool maintaining a 3.6 gpa and a 27 on the ACT.  I focused mainly on medical classes throughout highschool.  I was in medical clubs as well.  I ended up doing a medical competition in highschool which was fun and ended up placing 8th in state for my competition.  I ended up quitting baseball my senior year and of course that year we ended up winning state. After I graduated from highschool I originally was supposed to go to the Univerity of South Florida but I ended up going to Mizzou and I couldn't be happier.  
 
 [Edwardsville HighSchool Website](http://ecusd7.org/ehs/)
+
+[Basic info](basicinfo.md)
+[Early Life](EarlyLife.md)
+[Middle Life](MiddleLife.md)
+[Current Life](CurrentLife.md)
+[Future Life](FutureLife.md)
