@@ -5,3 +5,9 @@ I plan to graduate from Mizzou with an IT degree and get a job in the cyber secu
 ![Cyber Security](https://cdn1.vectorstock.com/i/1000x1000/62/05/cyber-security-logo-vector-27356205.jpg)
 
 ![Texas](https://t4.ftcdn.net/jpg/02/98/19/39/240_F_298193940_uF85hJEqVW2JOpzE6AE5Wdp6xUlA0Ivk.jpg)
+
+[Basic info](basicinfo.md)
+[Early Life](EarlyLife.md)
+[Middle Life](MiddleLife.md)
+[Current Life](CurrentLife.md)
+[Future Life](FutureLife.md)
