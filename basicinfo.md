@@ -1,6 +1,6 @@
-#Bronson Kelley
+# Bronson Kelley
 
-##Basic information
+## Basic information
 
 - I am 19 years old 
 - I go to the Univeristy of Missouri
