@@ -1,4 +1,4 @@
-#Future Life
+# Future Life
 
 I plan to graduate from Mizzou with an IT degree and get a job in the cyber security field.  I would love to get a job working at a startup so I have the potential to grow quickly in the company.  I would like to have a wife and 2 kids eventually and live in Texas.  I am not sure where i would like to live in Texas right now but I would love to live somewhere there is a city and not just the rural part of Texas.  I would like to own a decent size house with a pool, so that I am able to swim whenever I want because I love swimming.  
 
