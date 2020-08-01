@@ -11,4 +11,3 @@ I go to the University of Missouri and I am currently a part of the Delta Chi Fr
 
 [**Mizzou Website Link**](https://missouri.edu/)
 
-[Furture Life](FutureLife.md)
