@@ -1,4 +1,4 @@
-#Early Life
+# Early Life
 
 I grew up in Collinsville, IL and moved to Edwardsville, IL when i was in fifth grade.  I started playing baseball when I was 3 and I never looked back.  I played up a for a few years but realized that was too hard.  When I moved to Edwardsville all of my friends played football so, I decided that I wanted to play as well.  That did not go super well.  I was not bad but was definitely the smallest kid on the field so I got knocked around alot.  I started playing baseball for the Edwardsville Sluggers and that's where I met alot of my friends that I still hang out with to this day.    
 
