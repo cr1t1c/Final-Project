@@ -10,3 +10,8 @@
 - I have 2 brothers and no pets
 - I am a St. Louis Cardinals fan as well as a St. Louis Blues fan
 - My favorite food would have to be boneless wings
+
+[Early Life](EarlyLife.md)
+[Middle Life](MiddleLife.md)
+[Current Life](CurrentLife.md)
+[Future Life](FutureLife.md)
