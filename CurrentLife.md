@@ -10,3 +10,5 @@ I go to the University of Missouri and I am currently a part of the Delta Chi Fr
 ![Mizzou logo](https://i.pinimg.com/originals/a0/e5/0e/a0e50e092d77f31fbbfeedbb97406f24.png)
 
 [**Mizzou Website Link**](https://missouri.edu/)
+
+[Furture Life}(FutureLife.md)
