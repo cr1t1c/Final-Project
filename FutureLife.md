@@ -6,6 +6,12 @@ I plan to graduate from Mizzou with an IT degree and get a job in the cyber secu
 
 ![Texas](https://t4.ftcdn.net/jpg/02/98/19/39/240_F_298193940_uF85hJEqVW2JOpzE6AE5Wdp6xUlA0Ivk.jpg)
 
+```Python
+
+print("Did you like the website?)
+```
+
+
 [Basic info](basicinfo.md)
 [Early Life](EarlyLife.md)
 [Middle Life](MiddleLife.md)
