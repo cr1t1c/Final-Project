@@ -8,3 +8,9 @@ I grew up in Collinsville, IL and moved to Edwardsville, IL when i was in fifth 
 
 [Collinsville Highschool Website](https://www.kahoks.org/)
 [Edwardsville Highschool Website](http://ecusd7.org/ehs/)
+
+[Basic info](basicinfo.md)
+[Early Life](EarlyLife.md)
+[Middle Life](MiddleLife.md)
+[Current Life](CurrentLife.md)
+[Future Life](FutureLife.md)
